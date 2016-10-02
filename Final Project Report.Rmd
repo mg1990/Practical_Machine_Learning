@@ -54,7 +54,7 @@ set.seed(56789)
 ## Getting Data  
 First of all, set your current working directory.  
 ```{r warning=FALSE, error=FALSE}
-setwd("~/GitHub/Practical_Machine_Learning")
+setwd("~/GitHub/mg1990/Practical_Machine_Learning")
 ```  
 
 The following code fragment downloads the dataset to the `data` folder in the current working directory.  
